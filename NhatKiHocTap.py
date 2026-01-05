@@ -25,7 +25,7 @@ def them_nhat_ky():
     }
 
     diary.append(ngay_hoc)
-    print("✅ Đã lưu nhật ký!\n")
+    print("Đã lưu nhật ký!\n")
 
 def xem_nhat_ky():
     if len(diary) == 0:
